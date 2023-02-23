@@ -1,0 +1,9 @@
+*/weights/*
+t1.py
+test.py
+*/__pycache__
+.idea
+*/images
+*.pt
+*.pth
+*.ckpt
